@@ -1,0 +1,29 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Forum';
+    padding: 5%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-image: linear-gradient(180deg, rgb(89, 112, 214), rgb(255, 255, 255));
+    color: black;
+}
+
+.main-heading{
+    font-size: 1.5rem;
+    animation-name: main;
+    animation-duration: 4s;
+}
+
+@keyframes main {
+    0%   {left:0px; top:0px;}
+  100%  {left:200px; top:0px;}
+}
+
+.main-p{
+    font-size: 1.5rem;
+    width: 450px;
+    font-weight: 400;
+}
+
+

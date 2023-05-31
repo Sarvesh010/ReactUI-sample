@@ -1,0 +1,76 @@
+.tapas{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Forum';
+    padding: 2%;
+    background-image: linear-gradient(180deg, rgb(0, 0, 0), rgb(138, 132, 132));
+    color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.image{
+    text-align: center;
+}
+
+.image img{
+    width: 250px;
+    padding: 2%;
+}
+
+.box{
+    font-family: 'Forum';
+    margin-top: 70px;
+}
+
+.box h4{
+    font-size: 1rem;
+}
+
+.box button{
+    border-radius: 25px;
+    width: 150px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.person{
+    background-image: url("https://livingwhole.sanpurple.shop/assets/images/profile_background.png");
+    width: 1250px;
+    height: 300px;
+    margin-left: 12.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.person img{
+    width: 200px;
+    height: 150px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: solid;
+
+}
+
+.person h2{
+    padding: 0%;
+    margin: 0%;
+    margin-top: 20px;
+    font-size: 1.2 rem;
+    width: 450px;
+}
+
+.person p{
+    padding: 0%;
+    margin: 0%;
+    font-size: 1.05rem;
+}
+
+
+.engage h2{
+    margin-top: 150px;
+}
+

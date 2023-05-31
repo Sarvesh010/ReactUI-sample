@@ -1,0 +1,80 @@
+.section{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Forum';
+    padding-top: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px; 
+    background-color: aliceblue;
+    margin: 0%;
+    width: auto;
+    height: 15vh;
+    
+}
+
+.info-btn{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    /* background-color: rgb(138, 132, 132); */
+    margin-top: 0%;
+    padding-bottom: 50px;
+    
+}
+
+.one{
+    font-family: 'Forum';
+    font-size: 1.5rem;
+    padding: 1%;
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    margin-left: 370px;
+    background-color: black;
+    color: white;
+}
+
+.two{
+    font-family: 'Forum';
+    font-size: 1.5rem;
+    padding: 1%;
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    margin-right: 370px;
+    background-color: black;
+    color: white;
+}
+
+.three{
+    font-family: 'Forum';
+    font-size: 1.5rem;
+    padding: 1%;
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    margin-left: 370px;
+    background-color: black;
+    color: white;
+}
+
+.four{
+    font-family: 'Forum';
+    font-size: 1.5rem;
+    padding: 1%;
+    width: 300px;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    margin-right: 370px;
+    background-color: black;
+    color: white;
+}

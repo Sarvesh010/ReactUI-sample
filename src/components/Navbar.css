@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    justify-content: flex-start;
+}
+
+.logo img{
+    width: 100px;
+    margin-left: 70px;
+}
+
+
+.links ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 200px;
+}
+
+.links ul li a{
+    text-decoration: none;
+    padding: 12px;
+    color: black;
+}
+
+.links ul :hover{
+    color: blue;
+}
+.nav-btn{
+    margin: 10px 50px 0 0;
+    
+}
+
+.nav-btn button{
+    background-color: white;
+    border-radius: 25px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
